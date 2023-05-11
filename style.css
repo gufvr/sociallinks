@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-  width: 22.5rem;
+  width: 100%;
+  max-width: 36.75rem;
   margin: 3.5rem auto 0px;
   padding: 0 1.5rem;
 }
